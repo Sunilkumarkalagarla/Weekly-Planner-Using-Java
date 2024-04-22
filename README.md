@@ -7,7 +7,7 @@ This is a Simple Weekly Planner Designed using Java.
 3. java WeeklyPlanner
 
 # General Idea:
-![alt text](image.png)
+![alt text](./Output%20Screenshots/image-1.png)
 
 # Create Event Steps:
 1. Press Create Event, Enter the name of the event in the pop up and press ok.
