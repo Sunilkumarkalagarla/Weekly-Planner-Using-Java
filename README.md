@@ -3,8 +3,17 @@ This is a Simple Weekly Planner Designed using Java.
 
 # Execution steps:
 1. Open the Command Prompt or Terminal at the file's Path.
-2. javac WeeklyPanner.java
-3. java WeeklyPlanner
+2. javac EventSchedulerGUI.java
+3. java EventSchedulerGUI
+
+**#Login Promt**
+![image](https://github.com/Sunilkumarkalagarla/Weekly-Planner-Using-Java/assets/152442579/e1420eee-2d00-4811-897d-2ba607a42202)
+
+#Login Success
+![image](https://github.com/Sunilkumarkalagarla/Weekly-Planner-Using-Java/assets/152442579/4857763a-ce23-4cba-a56a-6cc02e9600fb)
+
+
+
 
 # General Idea:
 ![alt text](./Output%20Screenshots/image.png)
