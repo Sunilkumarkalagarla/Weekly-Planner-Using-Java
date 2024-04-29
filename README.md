@@ -42,9 +42,9 @@ Client View
 
 2. After selecting the Event we want to edit, Enter the corresponding details and press ok.
 ![image](https://github.com/Sunilkumarkalagarla/Weekly-Planner-Using-Java/assets/152442579/0024cd22-d4a3-4ffd-8673-7a0fd44c74f2)
-3. We can maually 
+3. We can enter the times that we want to modify in between the event.
+   ![image](https://github.com/Sunilkumarkalagarla/Weekly-Planner-Using-Java/assets/152442579/5fd4871d-1cae-482b-8ec6-11dda6fbbc38)
 
-3. Type in the Name you want to modify to, and Press ok.
-
-
-
+4. As we can see in the image, The event in green color got deleted
+# In edit event we can also delete event
+![image](https://github.com/Sunilkumarkalagarla/Weekly-Planner-Using-Java/assets/152442579/1d86f273-ed22-43d7-b1ec-3dcb8d9b159f)
