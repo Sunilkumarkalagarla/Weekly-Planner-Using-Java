@@ -36,21 +36,15 @@ Client View
 ![image](https://github.com/Sunilkumarkalagarla/Weekly-Planner-Using-Java/assets/152442579/da62b982-4211-4ebd-9203-7e45854bbda4)
 
 
-# Modify Event:
-1. Press Modify Event, Select the Event you want to modify and Press Ok.
-![alt text](./Output%20Screenshots/image-3.png)
-2. Type in the Name you want to modify to, and Press ok.
-![alt text](./Output%20Screenshots/image-4.png)
+# Edit Event:
+1. Press Edit Event, Select the Event you want to edit and Press Ok.
+![image](https://github.com/Sunilkumarkalagarla/Weekly-Planner-Using-Java/assets/152442579/1ab9bfd3-e874-4ca8-bb94-f06b6959c73d)
 
-``` After modification of the Event ```
-![alt text](./Output%20Screenshots/image-5.png)
+2. After selecting the Event we want to edit, Enter the corresponding details and press ok.
+![image](https://github.com/Sunilkumarkalagarla/Weekly-Planner-Using-Java/assets/152442579/0024cd22-d4a3-4ffd-8673-7a0fd44c74f2)
+3. We can maually 
 
-``` Note that only the Event created by one user can be modified by that particular user only ```
+3. Type in the Name you want to modify to, and Press ok.
 
-# Delete Event:
-1. Press Delete Event, and Select the event you want to delete and press ok.
-![alt text](./Output%20Screenshots/image-6.png)
-``` The event will be deleted ```
-![alt text](./Output%20Screenshots/image-7.png)
 
 
